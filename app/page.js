@@ -8,7 +8,7 @@ import Toggle from "./toggle";
 export default function Home() {
   return (
     <div>
-      <Navbar/> 
+      <Navbar/>   //naviagtion bar at the top of the app
 
       <br></br>
       <br></br>
@@ -21,13 +21,13 @@ export default function Home() {
       <h2>Tyler Lee N01728794</h2>
 
 
-      <Form />
+      <Form /> //basic form will change later to include more inforation 
 
       <br></br>
       <br></br>
 
 
-      <Counter />
+      <Counter /> 
 
       <br></br>
       <br></br>
