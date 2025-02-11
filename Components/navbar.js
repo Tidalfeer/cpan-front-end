@@ -16,7 +16,6 @@ export default function Navbar() {
         <option value="" disabled>
           Select a page
         </option>
-        <option value="/">Home</option>
         <option value="/counter">Counter</option>
         <option value="/toggle">Toggle</option>
         <option value="/form">Form</option>
